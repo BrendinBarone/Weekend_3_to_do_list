@@ -1,0 +1,89 @@
+body {
+    background-image: url("https://theillustrationsurvivalguidedotcom.files.wordpress.com/2016/04/papertexture.jpg?w=840");
+}
+button {
+  background: #524f43;
+ background-image: -webkit-linear-gradient(top, #524f43, #2e2520);
+ background-image: -moz-linear-gradient(top, #524f43, #2e2520);
+ background-image: -ms-linear-gradient(top, #524f43, #2e2520);
+ background-image: -o-linear-gradient(top, #524f43, #2e2520);
+ background-image: linear-gradient(to bottom, #524f43, #2e2520);
+ -webkit-border-radius: 7;
+ -moz-border-radius: 7;
+ border-radius: 7px;
+ text-shadow: 1px 1px 1px #ff0000;
+ -webkit-box-shadow: 0px 1px 30px #000000;
+ -moz-box-shadow: 0px 1px 30px #000000;
+ box-shadow: 0px 1px 30px #000000;
+   font-family: 'Caveat', cursive;
+ color: #ec3;
+ font-size: 24px;
+ padding: 7px 12px 7px 12px;
+ border: solid #ff0000 1px;
+ text-decoration: none;
+}
+input[type=text] {
+    background-color: #eeaa00;
+}
+
+button:hover {
+  background: #ff8400;
+  background-image: -webkit-linear-gradient(top, #ff8400, #ff0000);
+  background-image: -moz-linear-gradient(top, #ff8400, #ff0000);
+  background-image: -ms-linear-gradient(top, #ff8400, #ff0000);
+  background-image: -o-linear-gradient(top, #ff8400, #ff0000);
+  background-image: linear-gradient(to bottom, #ff8400, #ff0000);
+  text-decoration: none;
+}
+.completed {
+  background: #6d6;
+ background-image: -webkit-linear-gradient(top, #524f43, #6d6);
+ background-image: -moz-linear-gradient(top, #524f43, #6d6);
+ background-image: -ms-linear-gradient(top, #524f43, #6d6);
+ background-image: -o-linear-gradient(top, #524f43, #6d6);
+ background-image: linear-gradient(to bottom, #524f43, #6d6);
+ -webkit-border-radius: 7;
+ -moz-border-radius: 7;
+ border-radius: 7px;
+ text-shadow: 1px 1px 1px #6d6;
+ -webkit-box-shadow: 0px 1px 30px #000000;
+ -moz-box-shadow: 0px 1px 30px #000000;
+ box-shadow: 0px 1px 30px #000000;
+   font-family: 'Caveat', cursive;
+ color: #ec3;
+ font-size: 24px;
+ padding: 7px 12px 7px 12px;
+ border: solid #6d6 1px;
+
+}
+h1 {
+  font-size: 48px;
+font-family: 'Permanent Marker', cursive;
+color: #eeaa00;
+text-align: center;
+}
+#header {
+  border-radius: 7px;
+  text-shadow: 1px 1px 1px #ff0000;
+  -webkit-box-shadow: 0px 1px 30px #000000;
+  -moz-box-shadow: 0px 1px 30px #000000;
+  box-shadow: 0px 1px 30px #000000;
+  background-image: url("http://myfirstsevendays.com/wp-content/uploads/2013/07/header-background.jpg");
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#inputArea {
+  width: 600px;
+  margin-left: 40%;
+  margin-right: 50%;
+}
+#newTaskIn {
+  font-size: 24px;
+}
+#listTable {
+  font-size: 32px;
+  font-family: 'Caveat', cursive;
+  width: 600px;
+  margin: 0 auto;
+}
